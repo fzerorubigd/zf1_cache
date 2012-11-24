@@ -1,0 +1,17 @@
+{
+    "name": "zend/cache",
+    "description": "Zendframework 1 Zend_Cache",
+    "authors": [
+        {
+            "name": "Zend Technologies USA, Inc.",
+            "homepage": "http://framework.zend.com/"
+        }
+    ],
+    "license": "Zend Framework",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Zend": "" }
+    }
+}
